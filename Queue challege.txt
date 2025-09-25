@@ -1,2 +1,0 @@
-QUEUE vs  STOCK for e-voting lines
-print("Queue reflection : FIFO builds trust in elctions because everyone " "is served fairly according to arrival order"
